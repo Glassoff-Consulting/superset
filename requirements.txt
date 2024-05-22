@@ -1,4 +1,5 @@
 sqlalchemy-redshift
+sqlalchemy-bigquery
 snowflake-connector-python
 snowflake-sqlalchemy
 typing-extensions
