@@ -1,3 +1,6 @@
 sqlalchemy-redshift
+snowflake-connector-python
+snowflake-sqlalchemy
 typing-extensions
 apache-superset[cors]
+apache-superset[databricks]
